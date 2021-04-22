@@ -1,0 +1,33 @@
+
+body{
+	background-color: white;
+	color: black;
+	padding: 200px;
+	font-family:Georgia, TImes, serif }
+
+h1{
+	background-color: cornsilk;
+	color: black;
+  padding: 20px;
+	font-family: Georgia, TImes, serif;
+	font-size: 250%;
+	text-shadow: 2px 2px 3px #666666;}
+
+h2{
+	font-family: Georgia, Times, serif;
+	color: #331C0E;
+
+p {
+	background-color:white;
+
+}
+
+
+img {
+	border-style:none;
+
+}
+
+.d-margin-left-xxl margin-bottom-l {
+	width:100%;
+}
